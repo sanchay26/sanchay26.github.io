@@ -1,0 +1,528 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sf",
+				"sf_sbrk"
+			],
+			[
+				"b",
+				"BLD"
+			],
+			[
+				"Exi",
+				"EXIT_FAILURE"
+			],
+			[
+				"exi",
+				"EXIT_FAILURE"
+			],
+			[
+				"print",
+				"print_help"
+			],
+			[
+				"ou",
+				"OUT_FILE"
+			],
+			[
+				"out",
+				"outfile"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"to",
+				"totalglyphs"
+			],
+			[
+				"total",
+				"totalascii"
+			],
+			[
+				"ver",
+				"verbosity1"
+			],
+			[
+				"ve",
+				"verbosity"
+			],
+			[
+				"pri",
+				"printf	printf …"
+			],
+			[
+				"tot",
+				"totalsurrogate"
+			],
+			[
+				"EXI",
+				"EXIT_FAILURE"
+			],
+			[
+				"B",
+				"BREAK"
+			],
+			[
+				"NO",
+				"NO_FD"
+			],
+			[
+				"buf",
+				"buf1"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"bu",
+				"buf1"
+			],
+			[
+				"N",
+				"NO_FD"
+			],
+			[
+				"O_",
+				"O_CREAT"
+			],
+			[
+				"O",
+				"O_WRONLY"
+			],
+			[
+				"I",
+				"IN_FILE"
+			],
+			[
+				"U",
+				"UTF"
+			],
+			[
+				"UT",
+				"UTF-16LE"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"In",
+				"Input"
+			],
+			[
+				"UTF",
+				"UTF-16LE"
+			],
+			[
+				"co",
+				"conversion"
+			],
+			[
+				"fina",
+				"final0"
+			],
+			[
+				"fin",
+				"final0"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"byte",
+				"bytes"
+			],
+			[
+				"s",
+				"surrogate"
+			],
+			[
+				"l",
+				"LITTLE"
+			],
+			[
+				"bi",
+				"build"
+			],
+			[
+				"std",
+				"STDOUT_FILENO"
+			],
+			[
+				"S",
+				"STDOUT_FILENO"
+			],
+			[
+				"swa",
+				"swap_endianness"
+			],
+			[
+				"en",
+				"end"
+			],
+			[
+				"th",
+				"THIRD"
+			],
+			[
+				"fo",
+				"FOURTH"
+			],
+			[
+				"L",
+				"LITTLE"
+			],
+			[
+				"end",
+				"endian_convert"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"map",
+				"map_return"
+			],
+			[
+				"E",
+				"EXIT_SUCCESS"
+			],
+			[
+				"make",
+				"makefolder"
+			],
+			[
+				"ma",
+				"makedir"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"int",
+				"int"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"nu",
+				"numberofoccurences"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"his",
+				"histogram"
+			],
+			[
+				"F",
+				"FILE"
+			],
+			[
+				"ana",
+				"analysis"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ac",
+				"ascii"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"ln",
+				"lnlen"
+			],
+			[
+				"as",
+				"ascii"
+			],
+			[
+				"ascii",
+				"ascii_array"
+			],
+			[
+				"fie",
+				"filename"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"longest_line_",
+				"longest_line_length"
+			],
+			[
+				"longe",
+				"longest_line_number"
+			],
+			[
+				"line",
+				"line_number"
+			],
+			[
+				"long",
+				"longest_line_number"
+			],
+			[
+				"lon",
+				"longest_line"
+			],
+			[
+				"rea",
+				"relativepath"
+			],
+			[
+				"str",
+				"strcmp"
+			],
+			[
+				"arg",
+				"argc"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 132.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/Makefile",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/README.md",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/src/utfconverter.c",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/include/utfconverter.h",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/out1.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/asd.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/src/map_reduce.c",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/test1.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/output.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/jaisiyaram.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/rsrc/utf16BE-special.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/output9.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/kaka8.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/output8.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/test5.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw2/rsrc/test.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/include/map_reduce.h",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/rsrc/ana_heavy/ana_heavy2.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/rsrc/ana_heavy/ana_heavy1.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/rsrc/ana_light/ana_light3.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/rsrc/ana_light/ana_light2.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/rsrc/ana_light/ana_light1.txt",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw1/Makefile",
+		"/home/sanchay/Documents/CSE320/saagrawal/hw0/test.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SF_hE",
+			"free",
+			"quit",
+			"lseek",
+			"write",
+			"malloc",
+			"filename",
+			"verbo",
+			"ver",
+			"end",
+			"if",
+			"file",
+			" -",
+			"buf",
+			"filename",
+			"swap",
+			"rv",
+			"****",
+			"help()",
+			"help",
+			"-1",
+			" %",
+			"help"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CNAME.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
